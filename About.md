@@ -54,7 +54,7 @@ Creativitate + Logică + Tehnologie
 ## ⚡ Rezolvarea problemelor cu soluții elegante
 
 
-#📍 Obiective
+# 📍 Obiective
 
 „Să creez proiecte care combină designul modern cu funcționalități inteligente.”
 
